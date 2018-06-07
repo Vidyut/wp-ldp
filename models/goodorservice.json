@@ -90,7 +90,7 @@
                 "range": "pair:Theme",
                 "type": "resource",
                 "multiple": "true"
-            },
+            }
         ]
     }
 }
